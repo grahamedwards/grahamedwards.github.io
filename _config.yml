@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "G.H. Edwards"
 title_separator          : "|"
 name                     : &name "Graham Harper Edwards"
-description              : &description "Isotope Geochemistry & Geochronology || PhD Candidate || University of California Santa Cruz"
+description              : &description "isotope geochemistry, geochronology"
 url                      : https://grahamedwards.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "grahamedwards.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Graham Harper Edwards"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Isotope Geochemistry, Geochronology<br>PhD Candidate<br>UC Santa Cruz"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=KHLOvgcAAAAJ&hl=en"
+  email            : "ghedwards at ucsc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "grahamedwards"
   google_plus      :
   keybase          :
   instagram        :
@@ -108,8 +108,8 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
+  tumblr           : 
+  twitter          : "@gisforgeology"
   vine             :
   weibo            :
   xing             :
