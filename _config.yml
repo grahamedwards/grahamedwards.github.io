@@ -13,7 +13,7 @@ name                     : &name "Graham Harper Edwards"
 description              : &description "isotope geochemistry, geochronology"
 url                      : https://grahamedwards.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "grahamedwards.github.io"
+repository               : "grahamedwards/grahamedwards.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Graham Harper Edwards"
   avatar           : "profile.png"
-  bio              : "Geochronology<br>Geochemistry<br>PhD Candidate<br>UC Santa Cruz<br><br>ghedwards at ucsc.edu"
-  location         : "Location"
+  bio              : "Geochronology<br>PhD Candidate<br><br>ghedwards at ucsc.edu"
+  location         : "UC Santa Cruz"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KHLOvgcAAAAJ&hl=en"
