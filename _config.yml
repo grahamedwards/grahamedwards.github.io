@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "G.H. Edwards"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Graham Harper Edwards"
 description              : &description "isotope geochemistry, geochronology"
 url                      : https://grahamedwards.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Graham Harper Edwards"
   avatar           : "profile.png"
-  bio              : "Isotope Geochemistry, Geochronology<br>PhD Candidate<br>UC Santa Cruz"
+  bio              : "Geochronology<br>Geochemistry<br>PhD Candidate<br>UC Santa Cruz<br><br>ghedwards at ucsc.edu"
   location         : "Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KHLOvgcAAAAJ&hl=en"
-  email            : "ghedwards at ucsc.edu"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-3285-4858"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           : 
-  twitter          : "@gisforgeology"
+  twitter          : "gisforgeology"
   vine             :
   weibo            :
   xing             :
