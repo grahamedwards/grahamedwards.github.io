@@ -10,6 +10,7 @@ redirect_from:
 
 ~ WEBSITE UNDER CONSTRUCTION. PLEASE PARDON INCOMPLETENESS ~
 I'll be working on completing this website and bringing it into final form over the course of 2020. Thanks for visiting!
+
 ---
 Radioactive decay has paced like a metronome in the background of our solar system's 4.5-billion year history. Applying principles of isotope geochemistry, I use these natural atomic clocks to measure the tempos of processes in the early solar system and during Earth's glacial climates.
 
