@@ -1,5 +1,4 @@
 ---
----
 title: "Accretion of a large LL parent planetesimal from a recently formed chondrule population"
 collection: publications
 permalink: /publication/2020-LLchondrite
