@@ -2,9 +2,10 @@
 title: "Accretion of a large LL parent planetesimal from a recently formed chondrule population"
 collection: publications
 permalink: /publication/2020-LLchondrite
-excerpt: '<i>Accepted and scheduled for publication April 15, 2020.</i><br>LL chondrite cooling histories require a ≥150-km parent body and accretion concurrent with LL chondrule formation.'
+excerpt: '<b>Accepted and scheduled for publication April 15, 2020.</b><br>LL chondrite cooling histories require a ≥150-km parent body and accretion concurrent with LL chondrule formation.'
 authors: 'Graham Harper Edwards and Terrence Blackburn'
 date: 2020-04-15
+year: '<i>In press</i>'
 venue: 'Science Advances'
 
 ---
