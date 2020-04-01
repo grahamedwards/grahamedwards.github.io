@@ -13,5 +13,5 @@ Overview of the meteoritic record and the processes of solar system evolution an
 <b>Responsibilities:</b> Write and develop problem sets and solution keys. Assist with in-class activities, problem including mathematical modeling exercises. 
 
 ###Topics Covered
-====
+
 
