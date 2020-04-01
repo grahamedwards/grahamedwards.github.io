@@ -3,7 +3,7 @@ title: "Geologic Principles"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2018-Winter
-venue: "UC Santa Cruz, Earth & Planetary Sciences Dept."
+venue: "UC Santa Cruz, Earth & Planetary Sciences"
 date: 2018-01-01
 location: "Santa Cruz, CA, U.S.A."
 ---
