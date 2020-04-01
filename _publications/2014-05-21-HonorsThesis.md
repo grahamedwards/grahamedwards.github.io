@@ -1,5 +1,5 @@
 ---
-title: "Geochemical and Stratigraphic Analysis of the Linnévatnet Sediment Record: A Study of Late Holocene Cirque Glacier Activity in Spitsbergen, Svalbard"
+title: "Geochemical and Stratigraphic Analysis of the Linnevatnet Sediment Record: A Study of Late Holocene Cirque Glacier Activity in Spitsbergen, Svalbard"
 collection: publications
 permalink: /publication/2014-HonorsThesis
 excerpt: 'Honor's Thesis completed at Bowdoin College. Data generated from samples collected during the Svalbard REU 2013 field season.'
