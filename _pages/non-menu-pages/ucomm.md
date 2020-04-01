@@ -7,7 +7,6 @@ redirect_from:
 ---
 
 ### U-Series Geochemistry
-#### How can we use U-series isotope geochemistry to measure the ages of geologic materials?
 Within most geologic materials (e.x. rocks and sediment) there are small amounts of the element uranium (U). The isotopes that are common in nature are <sup>238</sup>U and <sup>235</sup>U (isotopes are atoms of an element with different masses determined by the number of neutrons in the nucleus). For U-Series geochemistry, we focus on <sup>238</sup>U because it is both the most common isotope of U (>99% of natural U is <sup>238</sup>U) and its radioactive decay series is well-suited to answer some of the questions we ask about the timescales of geologic processes.
 
 As the radioactive isotope <sup>238</sup>U decays to <sup>234</sup>Th, it releases a particle called an alpha (α) particle. An α particle is actually an isotope of helium – <sup>4</sup>He. This <sup>234</sup>Th shortly decays to <sup>234</sup>U by the release of two β– particles, also known as electrons. This <sup>234</sup>U will hang around for a while before going through two more α decays to produce <sup>230</sup>Th and then <sup>226</sup>Ra, which each hang around for progressively shorter periods of time due to their respective half-lives, eventually reaching the stable daughter isotope of <sup>206</sup>Pb. In the case of U-series geochemistry, I am really only interested in these first 4 "intermediate daughters."
