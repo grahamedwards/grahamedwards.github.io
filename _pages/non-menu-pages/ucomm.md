@@ -6,8 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 
-U-Series Geochemistry
-======
+### U-Series Geochemistry
 #### How can we use U-series isotope geochemistry to measure the ages of some geologic materials?
 Within most geologic materials (e.x. rocks and sediment) there are small amounts of the element uranium (U). The isotopes that are common in nature are <sup>238</sup>U and <sup>235</sup>U (isotopes are atoms of an element with different masses determined by the number of neutrons in the nucleus). For U-Series geochemistry, we focus on <sup>238</sup>U because it is both the most common isotope of U (>99% of natural U is <sup>238</sup>U) and its radioactive decay series is well-suited to answer some of the questions we ask about the timescales of geologic processes.
 
@@ -18,8 +17,7 @@ As the radioactive isotope <sup>238</sup>U decays to <sup>234</sup>Th, it releas
 
 If we think of each of these isotopes as a leaky bucket full of that isotope, then we can imagine a bucket of <sup>238</sup>U that leaks into a <sup>234</sup>U bucket. The daughter buckets (<sup>234</sup>U, <sup>230</sup>Th, <sup>226</sup>Ra) are continuously being filled by decay of their parent radioisotope and leaking by decay into their daughter isotope. If you leave the system alone for a long time, the rate of filling (production) becomes balanced by the rate of leaking (decay) and the relative size of each reservoir reaches a steady state, called secular equilibrium. 
 
-U-Series Comminution Dating
-======
+### U-Series Comminution Dating
 Comminution is the term used to describe the reduction of larger particles into smaller particles. The premise of comminution dating is to provide an age for the timing of particle comminution by relying on the U-series secular equilibrium that develops in old (>1.5 million years old) rocks and the physical effects of particle comminution.
 
 Assuming that your bedrock or coarse sediment is in secular equilibrium, loss of the U-series isotopes by α-recoil will result in disequilibrium. As explained in the image below, α-recoil loss decribes the ejection of a radionuclide from its host sediment grain as a result of the “kick-back” or recoil experienced by a radioactively decaying atom when it undergoes α decay. Over the course of time the repeated ejections of U-series radionuclides will result in an increasing signal of isotopic disequilibrium.
