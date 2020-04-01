@@ -10,8 +10,9 @@ location: "Santa Cruz, CA, U.S.A."
 
 Overview of the meteoritic record and the processes of solar system evolution and planetary formation from a geochemical perspective.<br><b>Instructors:</b> Profs. Myriam Telus and Terrence Blackburn.
 
-<b>Responsibilities:</b> Write and develop problem sets and solution keys. Assist with in-class activities, problem including mathematical modeling exercises. 
+<b>Responsibilities:</b> Write and develop problem sets and solution keys. Assist students in completion of in-class activities and problem sets, including mathematical modeling exercises. 
 
-###Topics Covered
+### Topics Covered
+Meteorite groups and parent body processes, solar system origins and evolution, planetary formation, meteorite petrology, stable and radiogenic isotopic systems.
 
 
