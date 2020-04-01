@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* <i>B.A.</i>: Earth and Oceanographic Science, Classics Minor, Bowdoin College, 2014
-* <i>PhD Candidate</i>: Earth & Planetary Science, Isotope Geochemistry, UC Santa Cruz, expected 2021
+<i>B.A.</i>: Earth and Oceanographic Science, Classics Minor, Bowdoin College, 2014
+<i>PhD Candidate</i>: Earth & Planetary Science, Isotope Geochemistry, UC Santa Cruz, expected 2021
 
 Publications
 ======
