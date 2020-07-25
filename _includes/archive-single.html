@@ -41,7 +41,9 @@
     {% elsif post.collection == 'publications' and post.accessurl%}
      <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.year }}</p>
     {% elsif post.collection == 'publications' and post.paperurl%}
-     <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.year }}:&nbsp;&nbsp;<a href="{{ post.paperurl }}">{{ post.paperurl }}</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.permalink }}">Download</a></p>
+     <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.year }}:
+       &nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.permalink }}">Download</a>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
      {% endif %}
     
     {% if post.accessurl %}
