@@ -49,7 +49,7 @@
     {% elsif post.paperurl %}
       <p><a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
     {% elsif post.paperurl and post.accessurl %}
-      <p><a href="Download">{{ post.accessurl }}</a>; %nbsp;%nbsp;%nbsp;%nbsp;%nbsp;%nbsp; <a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
+      <p><a href="{{ post.accessurl }}">Download</a>; %nbsp;%nbsp;%nbsp;%nbsp;%nbsp;%nbsp; <a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
     {% endif %}
     
     {% if post.excerpt and site.read_more != 'enabled' %}
