@@ -7,12 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an NSF Astronomy & Astrophysics Postdoctoral Fellow at Dartmouth College.
 
-Radioactive decay has paced like a metronome in the background of our solar system's 4.5-billion year history. Applying principles of isotope geochemistry, I use the natural atomic clocks of radiometric systems to measure the tempos of processes in the early solar system and during Earth's glacial climates.
+My research spans the fields of cosmochemistry, isotope geochemistry, and geochronology. 
+
+**Metorites** are relics from the dawn of our solar system that offer a glimpse into the primordial processes that formed the planets and Sun. I use computational, chemical, and geochronologic methods to reconstruct solar system history. Through meteorites I strive to develop high-resolution reconstructions of the young solar system that help inform our models of extrasolar systems -- stars other than our Sun and the planets that orbit them.
+
+**Ice Sheets** have intermittently covered the landmasses of the northern hemisphere over the last several million years. I use isotope geochemistry and U-series geochronology to reconstruct processes at the base of these ice sheets to better understand their life cycles and dynamics.
 
 ---
-I am currently a PhD candidate in the Department of Earth and Planetary Sciences at the University of California Santa Cruz, working in the [Blackburn Lab](https://ucscgeochronology.sites.ucsc.edu/). My PhD research has focused on using the radioactive isotopes of uranium and its intermediate and stable daughter products to answer questions about 1) the interplay between glaciers and their environments,  2) the timescales and processes of planetary assembly and thermal processing in the early solar system, and 3) billion-year timescales of middle crustal cooling and reheating.
+####PhD Research
+As a doctoral student in the [Blackburn Lab](https://ucscgeochronology.sites.ucsc.edu/) at UC Santa Cruz, I used radioactive isotopes of uranium and their intermediate and stable daughter products to answer questions about 1) the interplay between glaciers and their environments,  2) the timescales and processes of planetary assembly and thermal processing in the early solar system, and 3) billion-year timescales of middle crustal cooling and reheating.
 
 ---
-In addition to my research interests, I am passionate about accessible education, especially via museums. Museums and exhibit spaces provide unique opportunities for poignant, immersive, and even dynamic educational experiences. Prior to beginning my graduate studies, I  worked at the Peary-MacMillan Arctic Museum (Brunswick, Maine) and volunteered at the Museum of the Rockies (Bozeman, Montana). I currently volunteer with my labmate and colleague [Gavin Piccione](https://gavinpiccione.github.io/) at the Santa Cruz Museum of Natural History, where we share our love for the Earth and rocks as the <i>Geology Gents</i>. During quarantine and social distancing protocols of the COVID-19 pandemic, Gavin and I have continued our outreach with SCMNH over [weekly video streams](https://www.santacruzmuseum.org/category/rockin-pop-up/)!
+In addition to my research interests, I am passionate about accessible education, especially via museums. Museums and exhibit spaces provide unique opportunities for poignant, immersive, and even dynamic educational experiences. Prior to beginning my graduate studies, I  worked at the Peary-MacMillan Arctic Museum (Brunswick, Maine) and volunteered at the Museum of the Rockies (Bozeman, Montana). I currently volunteer with my labmate and colleague [Gavin Piccione](https://gavinpiccione.github.io/) at the Santa Cruz Museum of Natural History, where host [monthly video streams](https://www.santacruzmuseum.org/category/rockin-pop-up/) about Earth sciences.
 
