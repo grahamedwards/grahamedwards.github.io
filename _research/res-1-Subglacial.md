@@ -1,5 +1,5 @@
 ---
-title: "Processes at the Bases of Glaciers"
+title: "Processes at the bases of glaciers"
 collection: research
 permalink: /research/subglacial
 excerpt: "Glaciers are a critical component of the Earth's climate system, and have drastically shaped the Earth's surface at high latitudes and elevations. I use U-series isotopes to investigate subglacial hydrologic systems of ice sheets and the timescales of glacial erosion.<br/><img src='/images/ice/Linebreen_snout.jpg'>"
