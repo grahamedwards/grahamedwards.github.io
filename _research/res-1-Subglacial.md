@@ -2,7 +2,7 @@
 title: "Processes at the Bases of Glaciers"
 collection: research
 permalink: /research/subglacial
-excerpt: "Glaciers are a critical component of the Earth's climate system, and have drastically shaped the Earth's surface at high latitudes and elevations. I use U-series isotopes to investigate subglacial hydrologic systems of ice sheets and the timescales of glacial erosion.<br/><img src="/images/ice/Linebreen_snout.jpg" width="500">"
+excerpt: "Glaciers are a critical component of the Earth's climate system, and have drastically shaped the Earth's surface at high latitudes and elevations. I use U-series isotopes to investigate subglacial hydrologic systems of ice sheets and the timescales of glacial erosion.<br/><img src='/images/ice/Linebreen_snout.jpg'>"
 ---
 
 Throughout the Pleistocene and Holocene, glaciers and ice sheets have served as major water reservoirs. Ice sheets have sequestered and released meters to many tens of meters of sea level on 100-thousand to million year timescales. While the behavior of glaciers reciprocally controls and is controlled by the climate system, the responses of ice masses to these climate forcings are strongly modulated by processes at the glacier bases. In these basal and subglacial regions, the ice mass interacts with sediments and waters that affect the dynamics of the overlying ice sheet.
