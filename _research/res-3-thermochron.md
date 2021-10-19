@@ -1,5 +1,5 @@
 ---
-title: "U-Pb Thermochronology of the Deep Crust"
+title: "U-Pb thermochronology of the deep crust"
 collection: research
 permalink: /research/thermochron
 excerpt: "The temperature-dependent diffusive loss of Pb from the accessory phase minerals rutile, apatite, and titanite in deep crustal xenoliths afford the opportunity to track the billion-year cooling histories of the middle to lower crust. <br><img src='/images/thermochron/xenolith.jpg'>"
