@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "G. H. Edwards"
 title_separator          : "|"
-name                     : &name "Graham Harper Edwards, PhD"
+name                     : &name "Graham Harper Edwards"
 description              : &description "geochemistry, cosmochemistry, geochronology"
 url                      : https://grahamedwards.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Graham Harper Edwards"
+  name             : "Graham Harper Edwards, PhD"
   avatar           : "profile.jpg"
   bio              : "he | him<br>Cosmochemistry<br>Geochronology<br>NSF Postdoctoral Fellow<br><br>graham.h.edwards at dartmouth.edu"
   location         : "Dartmouth College"
