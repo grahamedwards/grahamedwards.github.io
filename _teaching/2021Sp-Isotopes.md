@@ -16,8 +16,8 @@ Collected isotope data for students to interpret in final project. (Remote Instr
 
 ### Topics Covered
 Rock sample preparation, including wet chemistry methods (sample digestion and ion-exchange column chemistry), fundamentals of mass spectrometry, and various isotopic analysis methods:
-  carbonate &delta<sup>13</sup>C and &delta<sup>18</sup>O by iRMS,
-  organic C and N amount and δ<sup>13/sup>C and &delta<sup>15</sup>N by CN-EA-iRMS
-  water isotope (&deltaD, &delta<sup>17</sup>O, &delta<sup>18</sup>O) by laser analyzer,
-  carbonate <sup>87/sup>Sr/<sup>86</sup>Sr by TIMS,
+  carbonate δ<sup>13</sup>C and δ<sup>18</sup>O by iRMS,
+  organic C and N amount and δ<sup>13</sup>C and δ<sup>15</sup>N by CN-EA-iRMS
+  water isotope (δD, δ<sup>17</sup>O, δ<sup>18</sup>O) by laser analyzer,
+  carbonate <sup>87</sup>Sr/<sup>86</sup>Sr by TIMS,
   and carbonate <sup>230</sup>Th-<sup>232</sup>Th-<sup>234</sup>U-<sup>238</sup>U by ID-TIMS.
