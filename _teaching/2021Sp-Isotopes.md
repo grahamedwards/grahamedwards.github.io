@@ -12,7 +12,7 @@ Radiogenic and stable isotope geochemistry: isotopic systems and their applicati
 
 ### Responsibilities
 Script, record, and produce five 10-20 minute videos demonstrating isotope geochemistry laboratory methods and narrating the progression of a geochemical study.
-Collected isotope data 
+Collected isotope data for students to interpret in final project. (Remote Instruction)
 
 ### Topics Covered
 Rock sample preparation, including wet chemistry methods (sample digestion and ion-exchange column chemistry), fundamentals of mass spectrometry, and various isotopic analysis methods:
