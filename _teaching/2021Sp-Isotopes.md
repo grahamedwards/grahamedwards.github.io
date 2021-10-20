@@ -12,12 +12,12 @@ Radiogenic and stable isotope geochemistry: isotopic systems and their applicati
 
 ### Responsibilities
 Script, record, and produce five 10-20 minute videos demonstrating isotope geochemistry laboratory methods and narrating the progression of a geochemical study.
-Collected isotope data for students to interpret in final project. (Remote Instruction)
+Collected isotopic data for students to interpret in final project. (Remote Instruction)
 
 ### Topics Covered
 Rock sample preparation, including wet chemistry methods (sample digestion and ion-exchange column chemistry), fundamentals of mass spectrometry, and various isotopic analysis methods:
   carbonate δ<sup>13</sup>C and δ<sup>18</sup>O by iRMS,
-  organic C and N amount and δ<sup>13</sup>C and δ<sup>15</sup>N by CN-EA-iRMS
-  water isotope (δD, δ<sup>17</sup>O, δ<sup>18</sup>O) by laser analyzer,
   carbonate <sup>87</sup>Sr/<sup>86</sup>Sr by TIMS,
-  and carbonate <sup>230</sup>Th-<sup>232</sup>Th-<sup>234</sup>U-<sup>238</sup>U by ID-TIMS.
+  carbonate <sup>230</sup>Th-<sup>232</sup>Th-<sup>234</sup>U-<sup>238</sup>U by ID-TIMS
+  water isotope (δD, δ<sup>17</sup>O, δ<sup>18</sup>O) by laser analyzer,
+  and organic C and N amount and δ<sup>13</sup>C and δ<sup>15</sup>N by CN-EA-iRMS.
