@@ -2,10 +2,11 @@
 title: "Processes at the bases of glaciers"
 collection: research
 permalink: /research/subglacial
-excerpt: "I use U-series isotopes to study the subglacial systems of ice sheets. <br/><img src='/images/ice/Linebreen_snout.jpg' width='400'>"
+excerpt: "<br/><img src='/images/ice/Linebreen_snout.jpg' width='400'>"
 ---
 
 <!--
+excerpt: I use U-series isotopes to study the subglacial systems of ice sheets. 
 ~~Text Scrapyard~~
 Throughout the Pleistocene and Holocene, glaciers and ice sheets have served as major water reservoirs. Ice sheets have sequestered and released meters to many tens of meters of sea level on 100-thousand to million year timescales. While the behavior of glaciers reciprocally controls and is controlled by the climate system, the responses of ice masses to these climate forcings are strongly modulated by processes at the glacier bases. In these basal and subglacial regions, the ice mass interacts with sediments and waters that affect the dynamics of the overlying ice sheet.
 
