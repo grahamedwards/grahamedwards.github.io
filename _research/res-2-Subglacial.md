@@ -21,9 +21,10 @@ On the other side of the world, hypersaline brines sourced from the East Antarct
 
 <img src='/images/ice/BloodFalls.JPG' width = "400" align="center">
 -->
-<img src='/images/ice/UpperTaylor.JPG' width="400" align="left">
 I use a variety of geochemical tools, including U-series isotopes, to reconstruct time and process in subglacial systems.
-<br/>
+<img src='/images/ice/UpperTaylor.JPG' width="400" align="right">
+<br/><br/>
+
 ---
 ### Subglacial Waters
 
