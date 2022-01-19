@@ -2,7 +2,7 @@
 title: "Processes at the bases of glaciers"
 collection: research
 permalink: /research/subglacial
-excerpt: "Glaciers are a critical component of the Earth's climate system, and have drastically shaped the Earth's surface at high latitudes and elevations. I use U-series isotopes to investigate subglacial hydrologic systems of ice sheets. <br/><img src='/images/ice/Linebreen_snout.jpg'>"
+excerpt: "I use U-series isotopes to study the subglacial systems of ice sheets. <br/><img src='/images/ice/Linebreen_snout.jpg' width="400">"
 ---
 
 <!--
@@ -23,7 +23,7 @@ On the other side of the world, hypersaline brines sourced from the East Antarct
 
 I use a variety of geochemical tools, including U-series isotopes, to reconstruct time and process in subglacial systems.
 
-<img src='/images/ice/UpperTaylor.JPG' width="400" float="left">
+<img src='/images/ice/UpperTaylor.JPG' width="400" align="left">
 
 ---
 ### Subglacial Waters
@@ -32,14 +32,14 @@ While we often think of glaciers and ice sheets in terms of their frozen water (
 
 The Laurentide Ice Sheet used to cover much of North America, reaching its greatest size and extent during the last glacial maximum about 20,000 years ago. Today, all that remains of the ice sheet is the Barnes Ice Cap of Baffin Island. Carbonate rocks preserved at the edge of the ice cap formed out of waters that flowed there beneath &gt;1000 meters of ice during the last glacial maximum.
 
-<img src='/images/ice/baffin_overview.png' width="400" align ="center" >
+<img src='/images/ice/baffin_overview.png' width="400" align ="left" >
 
 Using U-Th geochronology, we found that these rocks all formed during episodes of rapid iceberg discharge, called Heinrich events, with important implications for what mechanisms control when and how Heinrich events are caused. By measuring several different isotopic systems, we reconstructed the origins of the parent waters of these rocks, showing that they formed from distantly sourced waters that traveled through a long, connected network of water beneath the ice sheet. A manuscript on this research is forthcoming, so stay tuned!
 
 ---
 ### Subglacial Rocks
-Glaciers wear away at the very land they sit on as the ice flows and slides over it. At the base of glaciers, pieces of rock are entrained in the ice and dragged along the ground, or “bed,” gouging and chipping the bedrock as the ice moves. Processes like this grind, wear, and otherwise break down, or __*comminute*__, the bedrock and subglacial sediment. In these fine particles, the recoil experienced by U-series nuclides during radioactive decay can result in ejection of daughter nuclides from particles. For an overview of U-series geochemistry and a summary of comminution dating,  [go here](https://grahamedwards.github.io/research/u-comm).
+Glaciers wear away at the very land they sit on as the ice flows and slides over it. At the base of glaciers, pieces of rock are entrained in the ice and dragged along the ground, or “bed,” gouging and chipping the bedrock as the ice moves. Processes like this grind, wear, and otherwise break down, or __*comminute*__, the bedrock and subglacial sediment. In these fine particles, the recoil experienced by U-series nuclides during radioactive decay can result in ejection of daughter nuclides from particles. For an overview of U-series geochemistry and a summary of comminution dating,  [read this](https://grahamedwards.github.io/research/u-comm).
 
-<img src='/images/ice/Taylor_broad.JPG' width="400" align ="center" >
+<img src='/images/ice/Taylor_broad.JPG' width="400" align ="left" >
 
 U-series comminution dating, while a challenging technique fraught with complications, offers a unique chronometric tool for understanding the timescales of erosive processes. I have been using U-series comminution techniques to constrain the timing of sediment comminution in Taylor Valley, Antarctica (above). Taylor Valley silts exhibit complex U-series systematics reflecting a variety of weathering histories, and more dynamic glacial erosion by Taylor Glacier than previously thought! I am currently preparing a manuscript on the results of this study. I kept a blog of our 2017 fieldwork that you can read [on my old website](https://edwardsgh.wordpress.com/blogs/taylor-valley-antarctica-2017/).
