@@ -13,5 +13,5 @@ main:
   - title: "CV"
     url: /files/Edwards_CV.pdf
     
-  - title: "News"
-    url: /news/
+  #- title: "News"
+  #  url: /news/
