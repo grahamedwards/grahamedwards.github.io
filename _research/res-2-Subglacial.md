@@ -5,7 +5,7 @@ permalink: /research/subglacial
 excerpt: "<img src='/images/ice/Linebreen_snout.jpg' width='400'>"
 ---
 <img src='/images/ice/UpperTaylor.JPG' width="400" style="float:center">
-<br/>
+<br/><br/>
 I use a variety of geochemical tools, including U-series isotopes, to reconstruct time and process in subglacial systems.
 
 ---
@@ -22,7 +22,7 @@ Using U-Th geochronology, we found that these rocks all formed during episodes o
 ### Subglacial Rocks
 Glaciers wear away at the very land they sit on as the ice flows and slides over it. At the base of glaciers, pieces of rock are entrained in the ice and dragged along the ground, or “bed,” gouging and chipping the bedrock as the ice moves. Processes like this grind, wear, and otherwise break down, or __*comminute*__, the bedrock and subglacial sediment. In these fine particles, the recoil experienced by U-series nuclides during radioactive decay can result in ejection of daughter nuclides from particles. For an overview of U-series geochemistry and a summary of comminution dating,  [read this](https://grahamedwards.github.io/research/u-comm).
 
-<img src='/images/ice/Taylor_broad.JPG' width="400" align ="right" >
+<img src='/images/ice/Taylor_broad.JPG' width="400" style="float:right" >
 U-series comminution dating, while a challenging technique fraught with complications, offers a unique chronometric tool for understanding the timescales of erosive processes. I have been using U-series comminution techniques to constrain the timing of sediment comminution in Taylor Valley, Antarctica (image). Taylor Valley silts exhibit complex U-series systematics reflecting a variety of weathering histories, and more dynamic glacial erosion by Taylor Glacier than previously thought! I am currently preparing a manuscript on the results of this study. I kept a blog of our 2017 fieldwork that you can read [on my old website](https://edwardsgh.wordpress.com/blogs/taylor-valley-antarctica-2017/).
 
 
