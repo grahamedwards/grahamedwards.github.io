@@ -10,7 +10,7 @@ While extrasolar protoplanetary and debris disks may be observed remotely, meteo
 
 <img src='/images/meteoritics/solsys.png' width='400'>
 
-As a National Science Foundation Astronomy &amp; Astrophysics Postdoctoral Fellow, I am using statistical and computational methods to interrogate extant meteorite chemical data, working under the mentorship of [Prof. C. Brenhin Keller](https://brenhinkeller.github.io/) and [Prof. Elisabeth Newton](https://newton.host.dartmouth.edu/). 
+As a National Science Foundation Astronomy &amp; Astrophysics Postdoctoral Fellow, I am using statistical and computational methods to interrogate extant meteorite chemical data, working under the mentorship of [Prof. C. Brenhin Keller](https://brenhinkeller.github.io/) and [Prof. Elisabeth Newton](https://newton.host.dartmouth.edu/)).
 
 Project goals include:
 1. Build improved chemical models of planetesimals from the inner and outer regions of the solar system to evaluate the observed compositional differences between the Sun and very similar "solar twins" (e.g. [Meléndez+, 2009](https://arxiv.org/abs/0909.2299).
