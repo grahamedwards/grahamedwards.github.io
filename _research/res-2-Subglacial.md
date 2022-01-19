@@ -21,19 +21,16 @@ On the other side of the world, hypersaline brines sourced from the East Antarct
 
 <img src='/images/ice/BloodFalls.JPG' width = "400" align="center">
 -->
-
-I use a variety of geochemical tools, including U-series isotopes, to reconstruct time and process in subglacial systems.
-
 <img src='/images/ice/UpperTaylor.JPG' width="400" align="left">
+I use a variety of geochemical tools, including U-series isotopes, to reconstruct time and process in subglacial systems.
 
 ---
 ### Subglacial Waters
 
 While we often think of glaciers and ice sheets in terms of their frozen water (ice), expansive and dynamic reservoirs of liquid water can exist beneath the ice. I am curious about how subglacial waters evolve and interact with the overlying ice. To reconstruct the characteristics and timescales of these subglacial waters, I study mineral precipitate rocks that formed out of these subglacial waters.
-
+<br/>
+<img src='/images/ice/baffin_overview.png' width="400" align ="right" >
 The Laurentide Ice Sheet used to cover much of North America, reaching its greatest size and extent during the last glacial maximum about 20,000 years ago. Today, all that remains of the ice sheet is the Barnes Ice Cap of Baffin Island. Carbonate rocks preserved at the edge of the ice cap formed out of waters that flowed there beneath &gt;1000 meters of ice during the last glacial maximum.
-
-<img src='/images/ice/baffin_overview.png' width="400" align ="left" >
 
 Using U-Th geochronology, we found that these rocks all formed during episodes of rapid iceberg discharge, called Heinrich events, with important implications for what mechanisms control when and how Heinrich events are caused. By measuring several different isotopic systems, we reconstructed the origins of the parent waters of these rocks, showing that they formed from distantly sourced waters that traveled through a long, connected network of water beneath the ice sheet. A manuscript on this research is forthcoming, so stay tuned!
 
