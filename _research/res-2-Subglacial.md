@@ -4,6 +4,8 @@ collection: research
 permalink: /research/subglacial
 excerpt: "<img src='/images/ice/Linebreen_snout.jpg' width='400'>"
 ---
+
+
 <img src='/images/ice/UpperTaylor.JPG' width="400" style="float:center">
 <br/><br/>
 I use a variety of geochemical tools, including U-series isotopes, to reconstruct time and process in subglacial systems.
