@@ -17,7 +17,10 @@ While we often think of glaciers and ice sheets in terms of their frozen water (
 
 The Laurentide Ice Sheet used to cover much of North America, reaching its greatest size and extent during the last glacial maximum about 20,000 years ago. Today, all that remains of the ice sheet is the Barnes Ice Cap of Baffin Island. Carbonate rocks preserved at the edge of the ice cap formed out of waters that flowed there beneath &gt;1000 meters of ice during the last glacial maximum.
 
-<img src='/images/ice/baffin_overview.png' width="400" style="float:right" >
+<br/>
+<img src='/images/ice/baffin_overview.png' width="600" style="float:right" >
+<br/>
+
 Using U-Th geochronology, we found that these rocks all formed during episodes of rapid iceberg discharge, called Heinrich events, with important implications for what mechanisms control when and how Heinrich events are caused. By measuring several different isotopic systems, we reconstructed the origins of the parent waters of these rocks, showing that they formed from distantly sourced waters that traveled through a long, connected network of water beneath the ice sheet. A manuscript on this research is forthcoming, so stay tuned!
 
 ---
