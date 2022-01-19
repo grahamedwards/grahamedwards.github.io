@@ -2,7 +2,7 @@
 title: "Processes at the bases of glaciers"
 collection: research
 permalink: /research/subglacial
-excerpt: "I use U-series isotopes to study the subglacial systems of ice sheets. <br/><img src='/images/ice/Linebreen_snout.jpg' width="400">"
+excerpt: "I use U-series isotopes to study the subglacial systems of ice sheets. <br/><img src='/images/ice/Linebreen_snout.jpg' width='400'>"
 ---
 
 <!--
