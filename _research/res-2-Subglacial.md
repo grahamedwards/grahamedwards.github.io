@@ -4,11 +4,9 @@ collection: research
 permalink: /research/subglacial
 excerpt: "<img src='/images/ice/Linebreen_snout.jpg' width='400'>"
 ---
-
+<img src='/images/ice/UpperTaylor.JPG' width="400" style="float:center">
+<br/>
 I use a variety of geochemical tools, including U-series isotopes, to reconstruct time and process in subglacial systems.
-<br/>
-<img src='/images/ice/UpperTaylor.JPG' width="400" align="center">
-<br/>
 
 ---
 ### Subglacial Waters
@@ -17,7 +15,7 @@ While we often think of glaciers and ice sheets in terms of their frozen water (
 
 The Laurentide Ice Sheet used to cover much of North America, reaching its greatest size and extent during the last glacial maximum about 20,000 years ago. Today, all that remains of the ice sheet is the Barnes Ice Cap of Baffin Island. Carbonate rocks preserved at the edge of the ice cap formed out of waters that flowed there beneath &gt;1000 meters of ice during the last glacial maximum.
 
-<img src='/images/ice/baffin_overview.png' width="400" align ="right" >
+<img src='/images/ice/baffin_overview.png' width="400" style="float:right" >
 Using U-Th geochronology, we found that these rocks all formed during episodes of rapid iceberg discharge, called Heinrich events, with important implications for what mechanisms control when and how Heinrich events are caused. By measuring several different isotopic systems, we reconstructed the origins of the parent waters of these rocks, showing that they formed from distantly sourced waters that traveled through a long, connected network of water beneath the ice sheet. A manuscript on this research is forthcoming, so stay tuned!
 
 ---
