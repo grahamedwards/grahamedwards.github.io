@@ -1,7 +1,8 @@
+
 ---
 layout: archive
 title: "Museum Outreach"
-permalink: /research/
+permalink: /outreach/
 author_profile: true
 ---
 
