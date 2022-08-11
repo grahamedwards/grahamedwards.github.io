@@ -1,7 +1,7 @@
 ---
 title: "Peary-MacMillan Arctic Museum"
-collection: research
-permalink: /research/cosmochem
+collection: outreach
+permalink: /outreach/pmam
 excerpt: "<img src='/images/meteoritics/cosmochem.png' width='400'>"
 ---
 
