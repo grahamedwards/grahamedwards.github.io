@@ -16,8 +16,7 @@ If you're interested, check out our [Virtual Rockin' Pop-ups](https://www.santac
   <figcaption>Graham and Gavin, the <i>Geology Gents</i>, talking rocks in Santa Cruz.</figcaption>
 </figure>
 
-Over the course of 4 years, we had a blast talking about rocks and enjoyed many wonderful conversations with community members. 
-Shortly after transitioning into my post-doc we had our final virtual Rockin' Pop-ups. 
-Currently, we have been looking back at the program and hope to share 
-We presented our first insights at Earth Educators' Rendezvous 2022.
-[View the poster here!](/files/Edwards_EER22.pdf)
+Over the course of the 4-year program, we had a blast talking about rocks and enjoyed many wonderful conversations with community members. 
+Shortly after transitioning into my post-doc we had our final virtual Rockin' Pop-up, bringing the program to its conclusion.
+Now, we have been looking back and hope to share some of the things we learned from this experience, including the accidental experiment of reinventing an in-person program as a virtual one.
+We presented our first insights at Earth Educators' Rendezvous 2022. If you're interested, [check out the poster here!](/files/Edwards_EER22.pdf)
