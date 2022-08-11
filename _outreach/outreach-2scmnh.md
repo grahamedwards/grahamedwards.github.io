@@ -11,7 +11,7 @@ In the spring of 2020, when shelter-in-place orders were declared in Santa Cruz,
 
 If you're interested, check out our [Virtual Rockin' Pop-ups](https://www.santacruzmuseum.org/category/rockin-pop-up/) and [Rock Record Blog](https://www.santacruzmuseum.org/category/virtual-museum/rock-record/).
 
-{% include figure image_path="/images/outreach/geology_gents.jpeg" alt="Graham and Gavin smiling while sitting at a table covered in rocks" caption="Graham and Gavin, the <i>Geology Gents</i>, talking rocks in Santa Cruz." width='300'%}
+{% include figure image_path="/images/outreach/geology_gents.jpeg" alt="Graham and Gavin smiling while sitting at a table covered in rocks" caption="Graham and Gavin, the <i>Geology Gents</i>, talking rocks in Santa Cruz." width='300' %}
 
 
 Over the course of 4 years, we had a blast talking about rocks and enjoyed many wonderful conversations with community members. 
