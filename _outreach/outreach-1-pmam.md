@@ -2,7 +2,7 @@
 title: "Peary-MacMillan Arctic Museum"
 collection: outreach
 permalink: /outreach/pmam
-excerpt: "<img src='/images/outreach/pmam_popup.jpeg' height='400'>"
+excerpt: "<img src='/images/outreach/pmam_popup.jpeg' width='300'>"
 ---
 
 Between 2012 and 2016 I intermittently worked at the [Peary-MacMillan Arctic Museum](https://www.bowdoin.edu/arctic-museum/) on the campus of Bowdoin College, first as a student tour guide (2012-2014) and later as the Curatorial Intern (2015-2016).
