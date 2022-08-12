@@ -14,4 +14,4 @@ As a National Science Foundation Astronomy &amp; Astrophysics Postdoctoral Fello
 
 Project goals include:
 1. Build improved chemical models of planetesimals from the inner and outer regions of the solar system to evaluate the observed compositional differences between the Sun and very similar "solar twins" (e.g. [Meléndez+, 2009](https://arxiv.org/abs/0909.2299)).
-2. Examine the thermochronologic histories of chondrites with Bayesian statistical models to evaluate the timescales of giant planet migration in the young solar system.
+2. Examine the thermochronologic histories of chondrites with Bayesian statistical models to evaluate the timescales of giant planet migration in the young solar system. Check out our [MetSoc poster](../files/Edwards_metsoc22.pdf) on preliminary findings!
