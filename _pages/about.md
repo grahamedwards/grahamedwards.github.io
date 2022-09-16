@@ -19,7 +19,7 @@ My research spans the fields of cosmochemistry, isotope geochemistry, and geochr
 
 **Ice Sheets** have intermittently covered the landmasses of the northern hemisphere over the last several million years. I study subglacial systems with isotope geochemistry and U-series geochronology to better understand the behavior and life cycles of glaciers and ice sheets.
 
-<!---<em>Latest glacial:</em> --->
+<em>Latest glacial:</em> New publication coming soon!
 
 ---
 I received my PhD in 2021 from the University of California Santa Cruz, where I worked in the [Blackburn Lab](https://ucscgeochronology.sites.ucsc.edu/). In my [dissertation](https://escholarship.org/uc/item/0vp7r59z), I used isotope geochemistry and geochronology to explore 1) [the interplay between glaciers and their environments](../_research/res-2-Subglacial.md),  2) [the timescales and processes of planetary assembly in the early solar system](../_research/res-3-chondrite.md), and 3) [billion-year timescales of middle crustal cooling and reheating](../_research/res-4-thermochron.md).
