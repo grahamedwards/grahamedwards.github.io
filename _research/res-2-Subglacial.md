@@ -21,7 +21,7 @@ The Laurentide Ice Sheet used to cover much of North America, reaching its great
 <img src='/images/ice/baffin_overview.png' width="600" style="float:right" >
 <br/>
 
-Using U-Th geochronology, we found that these rocks all formed during episodes of rapid iceberg discharge, called Heinrich events. Our results help constrain the long-debated stimulus of these Heinrich Events. By measuring several different isotopic systems, we reconstructed the origins of the parent waters of these rocks, showing that they formed from distantly sourced waters that traveled through a long, interconnected network of water beneath the ice sheet. [Check out our new publication on this work!]{https://www.science.org/doi/10.1126/sciadv.abp9329}
+Using U-Th geochronology, we found that these rocks all formed during episodes of rapid iceberg discharge, called Heinrich events. Our results help constrain the long-debated stimulus of these Heinrich Events. By measuring several different isotopic systems, we reconstructed the origins of the parent waters of these rocks, showing that they formed from distantly sourced waters that traveled through a long, interconnected network of water beneath the ice sheet. [Check out our new publication on this work!](https://www.science.org/doi/10.1126/sciadv.abp9329)
 
 ---
 ### Subglacial Rocks
