@@ -12,17 +12,18 @@ I recently developed a new meteorite identification key for their "Meteorites!" 
 
 [<img src='../images/outreach/metkey.jpg' width='200'>](../files/outreach/../meteoritekey_2022.pdf)
 
-<br><br>
+<br>
 
 ---
+<br>
 
-<figure>
-<img src="../images/outreach/ghe-jupiter.jpg" alt="Graham standing in a snowy forest next to a post with a silvery metal ball 3 inches in diameter, labelled "Jupiter". Graham is white-skinned with a red mustache, wearing a blue beanie hat, a grey jacket, and brown pants." width="200">
-<figcaption>I am piloting a new program called <i>A Journey to Jupiter</i> --- a 15-30 minute walk along the Montshire Museum's Planet Trail, where we walk from the Sun to Jupiter, using meteorites to help understand the history of our star and its rocky planets.</figcaption>  
-</figure>
+I am piloting a new program called "<i>A Journey to Jupiter</i>" — a 15-30 minute walk along the Montshire Museum's Planet Trail, where we walk from the Sun to Jupiter, using meteorites to help understand the history of our star and its rocky planets.
 
-<br><br>
+<img src="../images/outreach/ghe-jupiter.jpg" alt="Graham standing in a snowy forest next to a post with a silvery metal ball 3 inches in diameter, labeled 'Jupiter'. Graham is white-skinned with a red mustache, wearing a blue beanie hat, a grey jacket, and brown pants." width="200">
+
+<br>
 
 ---
+<br>
 
 And I have more new activities in the works!
