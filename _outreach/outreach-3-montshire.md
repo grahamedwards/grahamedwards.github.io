@@ -8,8 +8,8 @@ excerpt: "<img src='/images/meteoritics/solsys.png' width='300'>"
 As part of my postdoctoral work, I am developing programming focused on meteorites, asteroids, and the solar system...
 
 <figure>
-<img src='../images/outreach/meteor-oid-ite.png' width='600'>
-<figcaption> Diagram illustrating the difference between a <b>Meteoroid</b> (a small body in the solar system that could collide with Earth), a <b>Meteor</b> (a small extraterrestrial body falling through Earth's atmosphere), and a <b>Meteorite</b> (a small extraterrestrial body that has landed on Earth).
+<img src='../images/outreach/meteor-oid-ite.png'>
+<figcaption> Diagram illustrating the difference between a <b>Meteoroid</b> (a small body in the solar system that could collide with Earth), a <b>Meteor</b> (a small extraterrestrial body falling through Earth's atmosphere), and a <b>Meteorite</b> (a small extraterrestrial body that has landed on Earth). [<i>Please feel welcome and encouraged to use this original image for your own outreach efforts!</i>]
 </figure>
 
 ---
