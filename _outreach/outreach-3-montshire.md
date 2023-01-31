@@ -9,13 +9,11 @@ As part of my postdoctoral work, I am developing programming focused on meteorit
 
 <figure>
 <img src='../images/outreach/meteor-oid-ite.png'>
-<figcaption> Diagram illustrating the difference between a <b>Meteoroid</b> (a small body in the solar system that could collide with Earth), a <b>Meteor</b> (a small extraterrestrial body falling through Earth's atmosphere), and a <b>Meteorite</b> (a small extraterrestrial body that has landed on Earth). [<i>Please feel welcome and encouraged to use this <a href="https://grahamedwards.github.io/files/files/meteor-oid-ite.pdf">original image</a> for your own outreach efforts!</i>]</figcaption>
+<figcaption> Diagram illustrating the difference between a <b>Meteoroid</b> (a small body in the solar system that could collide with Earth), a <b>Meteor</b> (a small extraterrestrial body falling through Earth's atmosphere), and a <b>Meteorite</b> (a small extraterrestrial body that has landed on Earth). <i>Please feel welcome and encouraged to use this <a href="https://grahamedwards.github.io/files/meteor-oid-ite.pdf">original image</a> for your own outreach efforts!</i></figcaption>
 </figure>
 
-<br>
-
 ---
-I recently developed a new meteorite identification key for their "Meteorites!" activity:
+I recently developed a new meteorite identification key for the Montshire's "Meteorites!" activity:
 
 [<img src='../images/outreach/metkey.jpg' width='200'>](../files/outreach/../meteoritekey_2022.pdf)
 
