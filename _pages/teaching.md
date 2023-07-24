@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-My educational approach reflects my experience in [museum outreach](outreach.md), K-12 and college classrooms, field sites, and laboratories...
+My educational approach reflects my experiences in [museum outreach](outreach.md), K-12 schools, and college classrooms, field sites, and laboratories...
 
 ---
 ---
