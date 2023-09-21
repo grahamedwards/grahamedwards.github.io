@@ -3,7 +3,7 @@ title: "Accretion of a large LL parent planetesimal from a recently formed chond
 collection: publications
 permalink: /publications/LLchondrite
 excerpt: 'LL chondrite cooling histories require a ≥150-km parent body and accretion concurrent with LL chondrule formation.'
-authors: 'Graham Harper Edwards and Terrence Blackburn'
+authors: '<b>G.H. Edwards</b> and T. Blackburn'
 date: 2020-04-15
 year: '2020'
 venue: 'Science Advances'
