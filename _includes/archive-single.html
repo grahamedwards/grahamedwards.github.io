@@ -47,7 +47,7 @@
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.paperurl }}">Web</a></p>
     {% elsif post.collection == 'publications' and post.preprinturl%}
      <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.year }}      
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.accessurl }}">Preprint</a></p>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.preprinturl }}">Preprint</a></p>
     {% elsif post.collection == 'publications' %}
      <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.year }}</p>
      {% endif %}
