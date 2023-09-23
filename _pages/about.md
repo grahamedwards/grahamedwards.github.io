@@ -13,7 +13,7 @@ I am an NSF Astronomy & Astrophysics Postdoctoral Fellow at Dartmouth College.
 
 My research spans the fields of cosmochemistry, isotope geochemistry, and geochronology. 
 
-**Metorites** are relics from the dawn of our solar system and offer a glimpse into the primordial processes that formed the planets and Sun. I use computational, chemical, and geochronologic methods to reconstruct solar system history at a high-resolution from the meteorite record. I am particularly interested in contextualizing our solar system among other stellar and planetary systems.
+**Metorites** are relics from the dawn of our solar system and offer a glimpse into the primordial processes that formed the Sun and planets. I use computational and laboratory methods to reconstruct solar system history from the meteorite record. I aim to contextualize our solar system among other exoplanetary systems.
 
 <em>Latest celestial:</em> [Preprint on giant planet migration](https://arxiv.org/abs/2309.10906)
 
