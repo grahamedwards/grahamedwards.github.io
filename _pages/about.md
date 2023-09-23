@@ -15,11 +15,11 @@ My research spans the fields of cosmochemistry, isotope geochemistry, and geochr
 
 **Metorites** are relics from the dawn of our solar system and offer a glimpse into the primordial processes that formed the planets and Sun. I use computational, chemical, and geochronologic methods to reconstruct solar system history at a high-resolution from the meteorite record. I am particularly interested in contextualizing our solar system among other stellar and planetary systems.
 
-<em>Latest celestial:</em> [Poster at MetSoc (2022)](../files/Edwards_metsoc22.pdf)
+<em>Latest celestial:</em> [Preprint on giant planet migration](https://arxiv.org/abs/2309.10906)
 
 **Ice Sheets** have intermittently covered the landmasses of the northern hemisphere over the last several million years. I study subglacial systems with isotope geochemistry and U-series geochronology to better understand the behavior and life cycles of glaciers and ice sheets.
 
-<em>Latest glacial:</em> [New publication out in Science Advances!](https://www.science.org/doi/10.1126/sciadv.abp9329)
+<em>Latest glacial:</em> [Paper on Laurentide Ice Sheet groundwaters & ice streaming](https://www.science.org/doi/10.1126/sciadv.abp9329)
 
 ---
 I am committed to accessible and engaging education, within and beyond classrooms. Museums provide unique opportunities for immersive and dynamic educational experiences. To learn more about my work with museums, check out my [Outreach](outreach.md) page. 
