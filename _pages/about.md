@@ -15,7 +15,7 @@ My research spans the fields of cosmochemistry, isotope geochemistry, and geochr
 
 **Metorites** are relics from the dawn of our solar system and offer a glimpse into the primordial processes that formed the Sun and planets. I use computational and laboratory methods to reconstruct solar system history from the meteorite record. I aim to contextualize our solar system among other exoplanetary systems.
 
-<em>Latest celestial:</em> [Preprint on giant planet migration](https://arxiv.org/abs/2309.10906)
+<em>Latest celestial:</em> My [preprint](https://arxiv.org/abs/2309.10906) on giant planet migration got featured on [Astrobites](https://astrobites.org/2023/09/25/meteorites-planet-migration/)!
 
 **Ice Sheets** have intermittently covered the landmasses of the northern hemisphere over the last several million years. I study subglacial systems with isotope geochemistry and U-series geochronology to better understand the behavior and life cycles of glaciers and ice sheets.
 
