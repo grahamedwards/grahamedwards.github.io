@@ -9,7 +9,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an NSF Astronomy & Astrophysics Postdoctoral Fellow at Dartmouth College.
+I am an NSF Astronomy & Astrophysics Postdoctoral Fellow at Dartmouth College and a lecturer in Dartmouth's Department of Physics & Astronomy for the Fall 2023 term.
 
 My research spans the fields of cosmochemistry, isotope geochemistry, and geochronology. 
 
