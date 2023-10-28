@@ -14,8 +14,10 @@ As part of my postdoctoral work, I am developing programming focused on meteorit
 
 ---
 I recently developed a new meteorite identification key for the Montshire's "Meteorites!" activity:
-
+<figure>
 [<img src='../images/outreach/metkey.jpg' width='200'>](../files/outreach/../meteoritekey_2022.pdf)
+<figcaption>Clicking the image links to a full resolution pdf that you are very welcome to use!</figcaption>
+</figure>
 
 <br>
 
