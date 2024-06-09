@@ -9,24 +9,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an NSF Astronomy & Astrophysics Postdoctoral Fellow and a Lecturer in the Department of Physics & Astronomy at Dartmouth College.
+I am an incoming (Fall 2024) Assistant Professor of Earth and Environmental Geoscience at [Trinity University](https://www.trinity.edu/academics/departments/geosciences). My research spans the fields of geochemistry, cosmochemistry, and geochronology. 
 
-My research spans the fields of cosmochemistry, isotope geochemistry, and geochronology. 
+## Research Topics
 
-**Metorites** are relics from the dawn of our solar system and offer a glimpse into the primordial processes that formed the Sun and planets. I use computational and laboratory methods to reconstruct solar system history from the meteorite record. I aim to contextualize our solar system among other exoplanetary systems.
+**Ice Sheets** have intermittently covered northern hemisphere landmasses over the last several million years. I study subglacial systems with isotope geochemistry and U-series geochronology to reconstruct the behavior and life cycles of glaciers and ice sheets.
 
-<em>Latest celestial:</em> My [preprint](https://arxiv.org/abs/2309.10906) on giant planet migration got featured on [Astrobites](https://astrobites.org/2023/09/25/meteorites-planet-migration/)!
+<em>Latest glacial:</em> [Paper on Laurentide Ice Sheet groundwaters & ice streaming](https://www.science.org/doi/10.1126/sciadv.abp9329).
 
-**Ice Sheets** have intermittently covered the landmasses of the northern hemisphere over the last several million years. I study subglacial systems with isotope geochemistry and U-series geochronology to better understand the behavior and life cycles of glaciers and ice sheets.
+**Metorites** are relics from the dawn of our solar system and offer a glimpse of the Sun and planets' formation. I study meteorites with computational and laboratory methods to reconstruct solar system history and contextualize it among other exoplanetary systems.
 
-<em>Latest glacial:</em> [Paper on Laurentide Ice Sheet groundwaters & ice streaming](https://www.science.org/doi/10.1126/sciadv.abp9329)
+<em>Latest celestial:</em> Giant planet migration is in the news! I was interviewed for an [article](https://www.science.org/content/article/giant-planets-ran-amok-soon-after-solar-system-s-birth) based on my own [recent work](https://arxiv.org/abs/2309.10906) on the topic.
+
+**Soils** evolve through a complex combination of physical and chemical processes. I am interested in applying geochemical techniques to examine weathering and pedogenesis, or soil formation.
 
 ---
 I am committed to accessible and engaging education, within and beyond classrooms. Museums provide unique opportunities for immersive and dynamic educational experiences. To learn more about my work with museums, check out my [Outreach](outreach.md) page. 
 
----
-I received my PhD in 2021 from the University of California Santa Cruz, where I worked in the [Blackburn Lab](https://ucscgeochronology.sites.ucsc.edu/). In my [dissertation](https://escholarship.org/uc/item/0vp7r59z), I used isotope geochemistry and geochronology to explore:
-1. [the interplay between glaciers and their environments](../_research/res-2-subglacial.md)  
-2. [the timescales and processes of planetary assembly in the early solar system](../_research/res-3-chondrite.md)
-3. [billion-year timescales of middle crustal cooling and reheating](../_research/res-4-thermochron.md)
 
