@@ -29,22 +29,5 @@ Glaciers wear away at the very land they sit on as the ice flows and slides over
 
 <center><img src='../images/ice/Taylor_broad.JPG' width="400"></center>
 
-U-series comminution dating, while a challenging technique fraught with complications, offers a unique chronometric tool for understanding the timescales of erosive processes. I have been using U-series comminution techniques to constrain the timing of sediment comminution in Taylor Valley, Antarctica (image). Taylor Valley silts exhibit complex U-series systematics reflecting a variety of weathering histories, and more dynamic glacial erosion by Taylor Glacier than previously thought! I am currently preparing a manuscript on the results of this study. I kept a blog of our 2017 fieldwork that you can read [on my old website](https://edwardsgh.wordpress.com/blogs/taylor-valley-antarctica-2017/).
+U-series comminution dating, while a challenging technique fraught with complications, offers a unique chronometric tool for understanding the timescales of erosive processes. I have been using U-series comminution techniques to constrain the timing of sediment comminution in Taylor Valley, Antarctica (image). Taylor Valley silts exhibit complex U-series systematics reflecting a variety of weathering histories, and more dynamic glacial erosion by Taylor Glacier than previously thought! A manuscript on the results of this study is currently under review. I kept a [blog of our 2017 fieldwork](https://edwardsgh.wordpress.com/blogs/taylor-valley-antarctica-2017/).
 
-
-<!--
-excerpt: I use U-series isotopes to study the subglacial systems of ice sheets. <br/>
-~~Text Scrapyard~~
-Throughout the Pleistocene and Holocene, glaciers and ice sheets have served as major water reservoirs. Ice sheets have sequestered and released meters to many tens of meters of sea level on 100-thousand to million year timescales. While the behavior of glaciers reciprocally controls and is controlled by the climate system, the responses of ice masses to these climate forcings are strongly modulated by processes at the glacier bases. In these basal and subglacial regions, the ice mass interacts with sediments and waters that affect the dynamics of the overlying ice sheet.
-
-U-series radionuclides record aqueous and sedimentary processes on Pleistocene timescales.
-
-My interests in subglacial systems extend beyond the sediments and into the porewaters and basal ice. As U-series daughter nuclides are ejected from sediments, they accumulate in porewaters and ice. As a result of this process, hypersaline brines erupted from the snout of Taylor Glacier (below), an outlet of the East Antarctic Ice Sheet, reflect <sup>234</sup>U/<sup>238</sup>U compositions a factor of 5 greater than bedrock values.
- 
-The U-series compositions of glacial meltwaters and products of these meltwaters can thus serve as critical measures of subglacial conditions and processes. Current work on this subject includes both isotopic measurements of subglacially formed waterlain precipitates as well as isotopic chemical models of subglacial and periglacial systems.
-
-
-On the other side of the world, hypersaline brines sourced from the East Antarctic Ice Sheet interior erupt from the snout of Taylor Glacier. As the dissolved iron in the brine oxidizes, it turns bright red, giving the feature its name: _Blood Falls_.
-
-<img src='/images/ice/BloodFalls.JPG' width = "400" align="center">
--->
