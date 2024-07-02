@@ -19,7 +19,7 @@ I am an incoming (Fall 2024) Assistant Professor of Earth and Environmental Geos
 
 **Metorites** are relics from the dawn of our solar system and offer a glimpse of the Sun and planets' formation. I study meteorites with computational and laboratory methods to reconstruct solar system history and contextualize it among other exoplanetary systems.
 
-<em>Latest celestial:</em> Giant planet migration is in the news! I was interviewed for an [article](https://www.science.org/content/article/giant-planets-ran-amok-soon-after-solar-system-s-birth) based on my own [recent work](https://arxiv.org/abs/2309.10906) on the topic.
+<em>Latest celestial:</em> Giant planet migration is in the news! I was interviewed for two articles ([one in Science Magazine](https://www.science.org/content/article/giant-planets-ran-amok-soon-after-solar-system-s-birth), and [another in Sky & Telescope](https://skyandtelescope.org/astronomy-news/meteorites-tighten-timeline-for-giant-planets-movement-through-the-solar-system/)) based on my own [recent work](https://arxiv.org/abs/2309.10906) on the topic.
 
 **Soils** evolve through a complex combination of physical and chemical processes. I am interested in applying geochemical techniques to examine weathering and pedogenesis, or soil formation.
 
