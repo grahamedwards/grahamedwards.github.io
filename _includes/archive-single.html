@@ -41,16 +41,22 @@
     {% elsif post.collection == 'research' %}
     {% elsif post.collection == 'posts' %}
      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-    {% elsif post.collection == 'publications' and post.accessurl%}
-     <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.year }}       
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.accessurl }}">PDF</a>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.paperurl }}">Web</a></p>
-    {% elsif post.collection == 'publications' and post.preprinturl%}
-     <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.year }}      
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.preprinturl }}">Preprint</a></p>
     {% elsif post.collection == 'publications' %}
-     <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.year }}</p>
-     {% endif %}
+      <p>{{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.year }}
+      {% if post.accessurl %}
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.accessurl }}">PDF</a>
+      {% endif %}
+      {% if post.paperurl}
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.paperurl }}">Web</a></p>
+      {% endif %}
+      {% if post.preprinturl %}
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.preprinturl }}">Preprint</a></p>
+      {% endif %}
+      {% if post.dataurl %}
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.dataurl }}">Data</a></p>
+      {% endif %}
+      </p>
+    {% endif %}
 
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
