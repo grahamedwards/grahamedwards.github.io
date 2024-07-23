@@ -95,7 +95,7 @@
          offset="0"
          id="stop184" />
       <stop
-         style="stop-color:#ffca00;stop-opacity:0;"
+         style="stop-color:#fffffe;stop-opacity:0;"
          offset="1"
          id="stop186" />
     </radialGradient>
@@ -254,9 +254,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="2.6863678"
-     inkscape:cx="40.947484"
-     inkscape:cy="74.82222"
+     inkscape:zoom="3.6021274"
+     inkscape:cx="65.794452"
+     inkscape:cy="72.457182"
      inkscape:window-width="1384"
      inkscape:window-height="847"
      inkscape:window-x="56"
@@ -284,8 +284,7 @@
        d="M 109.694,54.847003 C 109.694,24.556003 85.138001,2.7491048e-6 54.847001,2.7491048e-6 24.556001,2.7491048e-6 1.4932453e-6,24.556003 1.4932453e-6,54.847003 1.4932453e-6,85.138003 24.556001,109.694 54.847001,109.694 c 30.291,0 54.846999,-24.555997 54.846999,-54.846997"
        style="fill:url(#radialGradient188);stroke:none"
        id="path192"
-       inkscape:label="electron cloud"
-       sodipodi:insensitive="true" />
+       inkscape:label="electron cloud" />
     <path
        d="m 56.727969,48.802502 c 0,-1.842948 -1.494091,-3.336602 -3.337579,-3.336602 -1.843488,0 -3.337579,1.493654 -3.337579,3.336602 0,1.842948 1.494091,3.336601 3.337579,3.336601 1.843488,0 3.337579,-1.493653 3.337579,-3.336601"
        style="fill:#fc9272;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999752;stroke-dasharray:none;stroke-opacity:1"
