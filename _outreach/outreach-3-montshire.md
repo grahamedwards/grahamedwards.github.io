@@ -5,7 +5,7 @@ permalink: /outreach/montshire
 excerpt: "<img src='/images/meteoritics/solsys.png' width='300'>"
 ---
 
-As part of my postdoctoral work, I am developing programming focused on meteorites, asteroids, and the solar system...
+As part of my postdoctoral work, I developed programming focused on meteorites, asteroids, and the solar system...
 
 <figure>
 <img src='../images/outreach/meteor-oid-ite.png'>
@@ -13,9 +13,9 @@ As part of my postdoctoral work, I am developing programming focused on meteorit
 </figure>
 
 ---
-I recently developed a new meteorite identification key for the Montshire's "Meteorites!" activity:
+I developed a new meteorite identification key for the Montshire's "Meteorites!" activity:
 <figure>
-[<img src='../images/outreach/metkey.jpg' width='200'>](../files/outreach/../meteoritekey_2022.pdf)
+<a href="/files/outreach/../meteoritekey_2022.pdf"><img src='../images/outreach/metkey.jpg' width='100'></a>.
 <figcaption>Clicking the image links to a full resolution pdf that you are very welcome to use!</figcaption>
 </figure>
 
@@ -24,13 +24,6 @@ I recently developed a new meteorite identification key for the Montshire's "Met
 ---
 <br>
 
-I am piloting a new program called "<i>A Journey to Jupiter</i>" — a 15-30 minute walk along the Montshire Museum's Planet Trail, where we walk from the Sun to Jupiter, using meteorites to help understand the history of our star and its rocky planets.
+I also developed a new program called "<i>A Journey to Jupiter</i>" — a 15-30 minute walk along the Montshire Museum's Planet Trail, where we walk from the Sun to Jupiter, using meteorites to explore the history of our star and its rocky planets.
 
 <img src="../images/outreach/ghe-jupiter.jpg" alt="Graham standing in a snowy forest next to a post with a silvery metal ball 3 inches in diameter, labeled 'Jupiter'. Graham is white-skinned with a red mustache, wearing a blue beanie hat, a grey jacket, and brown pants." width="300">
-
-<br>
-
----
-<br>
-
-And I have more new activities in the works!

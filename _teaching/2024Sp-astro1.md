@@ -2,7 +2,7 @@
 title: "Exploring Our Solar System"
 collection: teaching
 type: "Lecturer (Instructor of Record)"
-permalink: /teaching/2024Sp-astro1.md
+permalink: /teaching/2024Sp-astro1
 venue: "Dartmouth College, Physics & Astronomy"
 date: 2024-03-25
 ---

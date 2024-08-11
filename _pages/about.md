@@ -9,7 +9,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming (Fall 2024) Assistant Professor of Earth and Environmental Geoscience at [Trinity University](https://www.trinity.edu/academics/departments/geosciences). My research spans the fields of geochemistry, cosmochemistry, and geochronology. 
+I am an Assistant Professor of Earth and Environmental Geosciences at [Trinity University](https://www.trinity.edu/academics/departments/geosciences). My research spans the fields of geochemistry, cosmochemistry, and geochronology. 
 
 ## Research Topics
 
