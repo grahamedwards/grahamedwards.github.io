@@ -5,10 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-Click on the panels below to learn more about my past and present research themes
+Click on the panels below to learn more about my past and present research themes:
 
-<h1><a href='https://grackletu.github.io'>GRACkLe</a></h1>
-<a href="https://grackletu.github.io"><img src='https://grackletu.github.io/assets/images/grackle.svg' width="200" ></a>
+<h2><a href='https://grackletu.github.io'>GRACkLe</a> at Trinity</h2>
+<a href="https://grackletu.github.io"><img src='https://grackletu.github.io/assets/images/grackle.svg' width="160" ></a>
 
 {% include base_path %}
 
