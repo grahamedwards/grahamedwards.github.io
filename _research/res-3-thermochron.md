@@ -2,7 +2,7 @@
 title: "Earth's deep crust in deep time"
 collection: research
 permalink: /research/thermochron
-excerpt: "<img src='/images/thermochron/xenolith.jpg' width='400'>"
+excerpt: "<a href='https://grahamedwards.github.io/research/thermochron'><img src='/images/thermochron/xenolith.jpg' width='400'></a>"
 ---
 <!-- Excerpt: The temperature-dependent diffusive loss of Pb from accessory phase minerals in deep crustal xenoliths record the billion-year cooling histories of the middle to lower crust. <br> -->
 

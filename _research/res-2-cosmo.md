@@ -2,7 +2,7 @@
 title: "Cosmochemistry"
 collection: research
 permalink: /research/cosmochem
-excerpt: "<img src='/images/meteoritics/cosmochem.png' width='400'>"
+excerpt: "<a href='https://grahamedwards.github.io/research/cosmochem'><img src='/images/meteoritics/cosmochem.png' width='400'></a>"
 ---
 
 ## Statistical cosmochemistry
