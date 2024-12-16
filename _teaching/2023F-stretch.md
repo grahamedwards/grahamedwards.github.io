@@ -2,7 +2,7 @@
 title: "The Stretch"
 collection: teaching
 type: "Co-Instructor"
-permalink: /teaching/2023F-astro23
+permalink: /teaching/2023F-stretch
 venue: "Dartmouth College, Earth Sciences"
 date: 2023-10-15
 location: "Hanover, NH, U.S.A."

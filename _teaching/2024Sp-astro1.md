@@ -10,7 +10,6 @@ date: 2024-03-25
 Introductory astronomy course covering the fundamentals of astronomy and planetary science.
 
 ### Topics Covered
-### Topics Covered
 Observational astronomy, navigating the night sky, planetary formation, terrestrial and giant planets, Sun & stars, exoplanets.
 
 ### Course structure

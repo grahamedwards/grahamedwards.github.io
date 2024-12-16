@@ -1,7 +1,5 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me"
 author_profile: true
 header:
   image: /images/color_header.png
