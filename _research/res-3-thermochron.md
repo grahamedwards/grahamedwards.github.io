@@ -1,5 +1,5 @@
 ---
-title: "Earth's deep crust in deep time"
+title: "Earth's deep crust"
 collection: research
 permalink: /research/thermochron
 excerpt: "<a href='https://grahamedwards.github.io/research/thermochron'><img src='/images/thermochron/xenolith.jpg' width='400'></a>"

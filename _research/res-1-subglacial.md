@@ -1,5 +1,5 @@
 ---
-title: "Glacial geochemistry"
+title: "Glacial systems"
 collection: research
 permalink: /research/subglacial
 excerpt: "<a href='https://grahamedwards.github.io/research/subglacial'><img src='/images/ice/Linebreen_snout.jpg' width='400'></a>"
