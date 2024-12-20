@@ -17,5 +17,5 @@ I actively maintain active and ongoing research on the [GRACkLe](https://grackle
 
 
 {% for post in site.research %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
