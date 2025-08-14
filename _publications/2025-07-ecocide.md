@@ -2,7 +2,7 @@
 title: "The ongoing environmental destruction and degradation of Gaza: the resulting public health crisis"
 collection: publications
 permalink: /publications/ecocide25
-excerpt: 'Uranium series isotopes are sensitive tracers of both chemical and physical weathering. We report U-series data from fine-grained sediments form Taylor Valley, Antarctica that were deposited over the course of the last million years. Using novel numerical techniques we interpret the coupled chemical-physical weathering histories and show that Taylor Glacier has been eroding into Taylor Valley over the course of the Pleistocene.'
+excerpt: "A range of environmental and environmental health scientists weave their perspectives into a review/synthesis report on the ongoing genocide and ecocide of Israel's military campaign in Gaza."
 authors: 'A. Abuawad, M. Griffiths, <strong>G.H. Edwards</strong>, A. Eftekhari, M. El-Ebweini, H. Al-Najar, A. Butmeh, R. Abu Dayyeh, M. El-Shewy, A. Aker.'
 date: 2025-01-05
 year: 2025
