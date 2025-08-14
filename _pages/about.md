@@ -1,8 +1,6 @@
 ---
 permalink: /
 author_profile: true
-header:
-  image: /images/color_header.png
 redirect_from: 
   - /about/
   - /about.html

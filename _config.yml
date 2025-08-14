@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Graham Harper Edwards, PhD"
   avatar           : "profile.jpg"
-  bio              : "he | him<br>geo/cosmo chemistry<br>geo/cosmo chronology<br>Assistant Professor (Fall 2024)<br><br>gedward1 at trinity.edu"
+  bio              : "he | him<br>geo/cosmo chemistry<br>geo/cosmo chronology<br>Assistant Professor"
   location         : "Trinity University"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KHLOvgcAAAAJ&hl=en"
-  email            : 
+  email            : "gedward1 at trinity.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
