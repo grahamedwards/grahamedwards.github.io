@@ -14,7 +14,7 @@ main:
     url: /outreach/
 
   - title: "CV"
-    url: 'https://nbviewer.org/github/grahamedwards/CV/blob/main/Edwards-CV.pdf'
+    url: 'https://grahamedwards.github.io/CV/Edwards-CV.pdf'
     
   #- title: "News"
   #  url: /news/
